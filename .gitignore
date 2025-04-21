@@ -1,0 +1,38 @@
+# Node modules (if using Node.js or JavaScript)
+node_modules/
+
+# Dependencies (if using any dependency management)
+*.lock
+
+# Logs
+*.log
+
+# Build outputs
+/dist
+/build
+/public
+
+# Environment variables or config files (keep sensitive data secure)
+.env
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS-specific files (Mac, Windows, etc.)
+.DS_Store
+Thumbs.db
+
+# Firebase project files
+.firebaserc
+.firebase/
+
+# Python cache files (if applicable)
+__pycache__/
+*.pyc
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# OS specific files
+Thumbs.db
